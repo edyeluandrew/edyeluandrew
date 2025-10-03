@@ -1,1 +1,5 @@
-Hey 🤦...Am Andrew a full stack dev and web 3 enthusiast
+Hey 🤦...Am Andrew a full stack dev 
+React js + Typescript
+Node js + express server + mongodb
+web3 enthusiast
+
