@@ -65,19 +65,19 @@ Mid-level full-stack developer passionate about building scalable applications a
 ## 🎯 Featured Projects
 
 ### Project Highlight 1
-- **Description**: Brief description of what you built
+- **Description**: A crypto based subscription platform fr content creators
 - **Tech**: TypeScript, React, Express, PostgreSQL
-- **Link**: [GitHub Repo](https://github.com/YOUR_USERNAME/project1)
+- **Link**: [GitHub Repo](https://github.com/edyeluandrew/Orrbit)
 
 ### Project Highlight 2
-- **Description**: Another notable project
-- **Tech**: Go, Docker, ethers.js
-- **Link**: [GitHub Repo](https://github.com/YOUR_USERNAME/project2)
+- **Description**: A payment infrastrustrcture for instant fiat settlemenst
+- **Tech**: Node, Docker, reactjs,Tailwind v3 , Capacitors , Postgresql
+- **Link**: [GitHub Repo](https://github.com/edyeluandrew/rowan)
 
 ### Project Highlight 3
-- **Description**: Showcase your best work
-- **Tech**: Rust, PostgreSQL, Web3
-- **Link**: [GitHub Repo](https://github.com/YOUR_USERNAME/project3)
+- **Description**: A hotel reservation and booking web appliattion
+- **Tech**: React,Django,Tailwind v3
+- **Link**: [GitHub Repo](https://github.com/edyeluandrew/acadia)
 
 ---
 
@@ -106,15 +106,13 @@ Mid-level full-stack developer passionate about building scalable applications a
 - **GitHub**: [github.com/edyeluandrew](https://github.com/edyeluandrew)
 - **LinkedIn**: [linkedin.com/in/edyelandrew](https://linkedin.com/in/edyelandrew)
 - **Email**: edyelandrew@outlook.com
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
-
 ---
 
 ## 🎨 Fun Facts
 
 ```javascript
 const developer = {
-  name: "You",
+  name: "Edyelu Andrew",
   level: "Mid-level",
   favoriteLanguages: ["TypeScript", "Go", "Rust"],
   currentlyLearning: ["Advanced Rust", "Web3 Architecture"],
@@ -129,6 +127,5 @@ const developer = {
   
 **⭐ Feel free to explore my repos and star if you find something useful!**
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=edyeluandrew.edyeluandrew)](https://github.com/edyeluandrew)
 
 </div>
