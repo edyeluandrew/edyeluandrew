@@ -20,6 +20,8 @@
 ![Stellar](https://img.shields.io/badge/Stellar-14F195?style=for-the-badge&logo=stellar&logoColor=black)
 ![Horizon](https://img.shields.io/badge/Horizon_API-1E90FF?style=for-the-badge&logo=api&logoColor=white)
 ![Pathpayments](https://img.shields.io/badge/Pathpayments-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black)
+![Soroban](https://img.shields.io/badge/Soroban-9945FF?style=for-the-badge&logo=stellar&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-E8405F?style=for-the-badge&logo=solidity&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-FF6B35?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
@@ -56,6 +58,8 @@ Mid-level full-stack developer passionate about building scalable applications a
 - **Stellar**: Stellar SDK, blockchain integration
 - **Horizon**: Stellar Horizon API
 - **Pathpayments**: Cross-asset payment flows
+- **Soroban**: Stellar smart contracts development
+- **Smart Contract Optimization**: Gas optimization, contract efficiency
 
 ### Additional Skills
 - **SEO**: Search engine optimization, metadata optimization
