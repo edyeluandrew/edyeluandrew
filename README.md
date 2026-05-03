@@ -22,13 +22,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Mid-level full-stack developer passionate about building scalable applications across **web, blockchain, and backend systems**. I specialize in modern TypeScript/React frontends paired with robust Node.js/Go backends. Strong experience with database design, real-time systems, and containerized deployments.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Languages**: TypeScript, JavaScript
@@ -50,19 +50,7 @@ Mid-level full-stack developer passionate about building scalable applications a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edyeluandrew&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edyeluandrew&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🎯 Featured Projects
+##  Featured Projects
 
 ### Project Highlight 1
 - **Description**: A crypto based subscription platform fr content creators
@@ -92,7 +80,7 @@ Mid-level full-stack developer passionate about building scalable applications a
 
 ---
 
-## 📚 Learning & Growth
+##  Learning & Growth
 
 - Building expertise in Rust for systems programming
 - Exploring advanced blockchain patterns (DeFi, NFTs)
@@ -101,14 +89,14 @@ Mid-level full-stack developer passionate about building scalable applications a
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - **GitHub**: [github.com/edyeluandrew](https://github.com/edyeluandrew)
 - **LinkedIn**: [linkedin.com/in/edyelandrew](https://linkedin.com/in/edyelandrew)
 - **Email**: edyelandrew@outlook.com
 ---
 
-## 🎨 Fun Facts
+##  Fun Facts
 
 ```javascript
 const developer = {
@@ -125,7 +113,7 @@ const developer = {
 
 <div align="center">
   
-**⭐ Feel free to explore my repos and star if you find something useful!**
+** Feel free to explore my repos and star if you find something useful!**
 
 
 </div>
