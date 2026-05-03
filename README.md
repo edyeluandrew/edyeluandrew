@@ -17,6 +17,10 @@
 ![ethers.js](https://img.shields.io/badge/ethers.js-4E529A?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-CCCCCC?style=for-the-badge&logo=npm&logoColor=black)
 ![CDN](https://img.shields.io/badge/CDN-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-14F195?style=for-the-badge&logo=stellar&logoColor=black)
+![Horizon](https://img.shields.io/badge/Horizon_API-1E90FF?style=for-the-badge&logo=api&logoColor=white)
+![Pathpayments](https://img.shields.io/badge/Pathpayments-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black)
+![SEO](https://img.shields.io/badge/SEO-FF6B35?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -47,6 +51,16 @@ Mid-level full-stack developer passionate about building scalable applications a
 - **Containerization**: Docker
 - **CDN**: Cloudflare/CDN optimization
 - **Deployment**: Docker, cloud platforms
+
+### Blockchain & Web3
+- **Stellar**: Stellar SDK, blockchain integration
+- **Horizon**: Stellar Horizon API
+- **Pathpayments**: Cross-asset payment flows
+
+### Additional Skills
+- **SEO**: Search engine optimization, metadata optimization
+- **System Design**: Scalable architecture, real-time systems
+- **Database Optimization**: Query optimization, indexing strategies
 
 ---
 
