@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm a Mid-Level Full-Stack Developer
+# Hey there! I'm a Mid-Level Full-Stack Developer
 
 <div align="center">
   
