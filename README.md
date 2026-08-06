@@ -114,6 +114,14 @@ Mid-level full-stack developer passionate about building scalable applications a
 - **Email**: edyelandrew@outlook.com
 ---
 
+##  Contact
+
+- **Phone**: +256764331334
+- **X**: [x.com/EdyeluAndrew](https://x.com/EdyeluAndrew)
+- **LinkedIn**: [linkedin.com/in/edyeluandrew](https://linkedin.com/in/edyeluandrew)
+- **Email**: edyelandrew@outlook.com
+---
+
 ##  Fun Facts
 
 ```javascript
