@@ -28,6 +28,15 @@
 
 ---
 
+## Contact
+
+<p align="center">
+[![X](https://img.shields.io/badge/X-@EdyeluAndrew-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EdyeluAndrew)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-edyeluandrew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edyeluandrew)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+256764331334-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/256764331334)
+[![Email](https://img.shields.io/badge/Email-edyelandrew@outlook.com-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:edyelandrew@outlook.com)
+</p>
+
 ## About Me
 
 Mid-level full-stack developer passionate about building scalable applications across **web, blockchain, and backend systems**. I specialize in modern TypeScript/React frontends paired with robust Node.js/Go backends. Strong experience with database design, real-time systems, and containerized deployments.
@@ -89,12 +98,12 @@ Mid-level full-stack developer passionate about building scalable applications a
 
 ## 🛠️ What I Build
 
-✨ **Full-Stack Web Apps** — React frontends with Express/Node backends  
-⚡ **Real-time Systems** — WebSocket, event-driven architectures  
-🔗 **Blockchain Integration** — ethers.js, smart contract interaction  
-🐳 **Containerized Services** — Docker, microservices  
-🗄️ **Database Design** — PostgreSQL optimization, schema design  
-🚀 **High-Performance APIs** — Go with Gin, load balancing  
+- **Full-Stack Web Apps** — React frontends with Express/Node backends
+- **Real-time Systems** — WebSocket, event-driven architectures
+- **Blockchain Integration** — ethers.js, smart contract interaction
+- **Containerized Services** — Docker, microservices
+- **Database Design** — PostgreSQL optimization, schema design
+- **High-Performance APIs** — Go with Gin, load balancing
 
 ---
 
@@ -110,14 +119,6 @@ Mid-level full-stack developer passionate about building scalable applications a
 ##  Let's Connect
 
 - **GitHub**: [github.com/edyeluandrew](https://github.com/edyeluandrew)
-- **LinkedIn**: [linkedin.com/in/edyelandrew](https://linkedin.com/in/edyelandrew)
-- **Email**: edyelandrew@outlook.com
----
-
-##  Contact
-
-- **Phone**: +256764331334
-- **X**: [x.com/EdyeluAndrew](https://x.com/EdyeluAndrew)
 - **LinkedIn**: [linkedin.com/in/edyeluandrew](https://linkedin.com/in/edyeluandrew)
 - **Email**: edyelandrew@outlook.com
 ---
@@ -131,7 +132,7 @@ const developer = {
   favoriteLanguages: ["TypeScript", "Go", "Rust"],
   currentlyLearning: ["Advanced Rust", "Web3 Architecture"],
   passionedAbout: ["Clean Code", "Scalable Systems", "Open Source"],
-  funFact: "I love debugging in the flow state ⚡"
+  funFact: "I love debugging in the flow state"
 };
 ```
 
