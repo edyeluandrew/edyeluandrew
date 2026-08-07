@@ -31,10 +31,21 @@
 ## Contact
 
 <p align="center">
-[![X](https://img.shields.io/badge/X-@EdyeluAndrew-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EdyeluAndrew)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-edyeluandrew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edyeluandrew)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+256764331334-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/256764331334)
-[![Email](https://img.shields.io/badge/Email-edyelandrew@outlook.com-D14836?style=for-the-badge&logo=outlook&logoColor=white)](mailto:edyelandrew@outlook.com)
+  <a href="https://x.com/EdyeluAndrew" title="X">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="28" height="28" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/edyeluandrew" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/256764331334" title="WhatsApp">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="28" height="28" alt="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:edyelandrew@outlook.com" title="Email">
+    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="28" height="28" alt="Email" />
+  </a>
 </p>
 
 ## About Me
@@ -116,11 +127,26 @@ Mid-level full-stack developer passionate about building scalable applications a
 
 ---
 
-##  Let's Connect
+## Let's Connect
 
-- **GitHub**: [github.com/edyeluandrew](https://github.com/edyeluandrew)
-- **LinkedIn**: [linkedin.com/in/edyeluandrew](https://linkedin.com/in/edyeluandrew)
-- **Email**: edyelandrew@outlook.com
+<p align="center">
+  <a href="https://github.com/edyeluandrew" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" height="28" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/edyeluandrew" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/EdyeluAndrew" title="X">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="28" height="28" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:edyelandrew@outlook.com" title="Email">
+    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="28" height="28" alt="Email" />
+  </a>
+</p>
+
 ---
 
 ##  Fun Facts
