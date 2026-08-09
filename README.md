@@ -31,20 +31,20 @@
 ## 📞 Contact - Let's Connect
 
 <p align="center">
-  <a href="https://x.com/EdyeluAndrew" title="X / Twitter" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="40" height="40" alt="X" />
+  <a href="https://x.com/EdyeluAndrew" title="X / Twitter">
+    <img src="https://img.shields.io/badge/X-@EdyeluAndrew-000000?style=flat&logo=x&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/edyeluandrew" title="LinkedIn" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/edyeluandrew" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-EdyeluAndrew-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/256764331334" title="WhatsApp: +256764331334" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/256764331334" title="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B256764331334-25D366?style=flat&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:edyelandrew@outlook.com" title="Email" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="40" height="40" alt="Email" />
-  </a>
-  <a href="https://github.com/edyeluandrew" title="GitHub" style="margin: 0 15px; display: inline-block;">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:edyelandrew@outlook.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-edyelandrew%40outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
 
