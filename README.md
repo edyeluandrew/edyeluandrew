@@ -24,6 +24,9 @@
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-E8405F?style=for-the-badge&logo=solidity&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-FF6B35?style=for-the-badge&logo=google&logoColor=white)
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
