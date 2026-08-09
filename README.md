@@ -32,24 +32,21 @@
 
 <p align="center">
   <a href="https://x.com/EdyeluAndrew" title="X / Twitter">
-    <img src="https://img.shields.io/badge/X-@EdyeluAndrew-000000?style=flat&logo=x&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="45" height="45" alt="X" style="margin: 0 10px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/edyeluandrew" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-EdyeluAndrew-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/256764331334" title="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B256764331334-25D366?style=flat&logo=whatsapp&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" height="45" alt="WhatsApp" style="margin: 0 10px;" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:edyelandrew@outlook.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-edyelandrew%40outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />
+  <a href="mailto:edyeluandrew1@gmail.com" title="Gmail">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail" style="margin: 0 10px;" />
   </a>
 </p>
 
 **Phone**: +256764331334  
-**Email**: edyelandrew@outlook.com
+**Email**: edyeluandrew1@gmail.com
 
 ---
 
