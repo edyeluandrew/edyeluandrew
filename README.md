@@ -28,25 +28,30 @@
 
 ---
 
-## Contact
+## 📞 Contact - Let's Connect
 
 <p align="center">
-  <a href="https://x.com/EdyeluAndrew" title="X">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="28" height="28" alt="X" />
+  <a href="https://x.com/EdyeluAndrew" title="X / Twitter" style="margin: 0 15px; display: inline-block;">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="40" height="40" alt="X" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/edyeluandrew" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/edyeluandrew" title="LinkedIn" style="margin: 0 15px; display: inline-block;">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/256764331334" title="WhatsApp">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="28" height="28" alt="WhatsApp" />
+  <a href="https://wa.me/256764331334" title="WhatsApp: +256764331334" style="margin: 0 15px; display: inline-block;">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:edyelandrew@outlook.com" title="Email">
-    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="28" height="28" alt="Email" />
+  <a href="mailto:edyelandrew@outlook.com" title="Email" style="margin: 0 15px; display: inline-block;">
+    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="40" height="40" alt="Email" />
+  </a>
+  <a href="https://github.com/edyeluandrew" title="GitHub" style="margin: 0 15px; display: inline-block;">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub" />
   </a>
 </p>
+
+**Phone**: +256764331334  
+**Email**: edyelandrew@outlook.com
+
+---
 
 ## About Me
 
@@ -124,28 +129,6 @@ Mid-level full-stack developer passionate about building scalable applications a
 - Exploring advanced blockchain patterns (DeFi, NFTs)
 - Cloud infrastructure (AWS, GCP, Azure)
 - Scaling distributed systems
-
----
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://github.com/edyeluandrew" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" height="28" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/edyeluandrew" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/EdyeluAndrew" title="X">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="28" height="28" alt="X" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:edyelandrew@outlook.com" title="Email">
-    <img src="https://cdn.simpleicons.org/microsoftoutlook/0078D4" width="28" height="28" alt="Email" />
-  </a>
-</p>
 
 ---
 
