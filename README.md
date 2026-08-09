@@ -35,7 +35,7 @@
     <img src="https://cdn.simpleicons.org/x/FFFFFF" width="45" height="45" alt="X" style="margin: 0 10px;" />
   </a>
   <a href="https://linkedin.com/in/edyeluandrew" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn" style="margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF?bg=0A66C2" width="45" height="45" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
   <a href="https://wa.me/256764331334" title="WhatsApp">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" height="45" alt="WhatsApp" style="margin: 0 10px;" />
