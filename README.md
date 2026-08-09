@@ -32,16 +32,16 @@
 
 <p align="center">
   <a href="https://x.com/EdyeluAndrew" title="X / Twitter">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="45" height="45" alt="X" style="margin: 0 25px;" />
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="45" height="45" alt="X" style="margin: 0 50px;" />
   </a>
   <a href="https://linkedin.com/in/edyeluandrew" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" height="45" alt="LinkedIn" style="margin: 0 25px;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" height="45" alt="LinkedIn" style="margin: 0 50px;" />
   </a>
   <a href="https://wa.me/256764331334" title="WhatsApp">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" height="45" alt="WhatsApp" style="margin: 0 25px;" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" height="45" alt="WhatsApp" style="margin: 0 50px;" />
   </a>
   <a href="mailto:edyeluandrew1@gmail.com" title="Gmail">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail" style="margin: 0 25px;" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail" style="margin: 0 50px;" />
   </a>
 </p>
 
